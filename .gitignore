@@ -1,4 +1,5 @@
 HELP.md
+card-holder-api.iml
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
